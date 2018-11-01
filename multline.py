@@ -6,9 +6,7 @@ while True:
         break
     except Exception:
         print("enter a valid option")
-if no > 80000:
-    print("its very big")
-elif no == 0:
+if no == 0:
     print("u wanna print it right?")
 else:
     while(no>x):
